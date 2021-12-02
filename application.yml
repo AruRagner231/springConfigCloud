@@ -1,3 +1,4 @@
-server.port: 8198
+server:
+  port: 8197
 
 
